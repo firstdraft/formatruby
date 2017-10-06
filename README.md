@@ -1,7 +1,7 @@
 formatruby
 ===================
 
-This plugins adds a new ruby formater to C9 based on rufo.
+This plugins adds a new ruby formater to C9 based on [rufo](https://github.com/ruby-formatter/rufo).
 
 Requirements
 ------------
