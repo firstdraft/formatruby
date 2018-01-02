@@ -16,5 +16,5 @@
   },
   "permissions": "world",
   "categories": ["miscellaneous", "format"],
-  "licenses": ["AGPL"]
+  "licenses": ["MIT"]
 }
