@@ -30,7 +30,7 @@ Click Cloud9 -> Open Your Init Script and add the following:
 ```
 services.pluginManager.loadPackage([
   "~/.c9/plugins/formatruby/package.json",
-])
+]);
 ```
 
 Refresh the page.
